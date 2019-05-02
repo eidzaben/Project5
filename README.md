@@ -11,3 +11,6 @@ I used the lamda actionListeners for the buttons. Each button had its own action
 
 ### Calculate Hamming Distance Button
 For this button I created an object of calcHdClass inside the actionListener. That class counted the frequency of each hamming distance, and returned each of them with a series of getters. The textFields that displayed the frequency of each hamming distance were assigned to the appropriate getters.
+
+## UML 
+
